@@ -2,6 +2,8 @@
 slug: Radio-tables
 ---
 
+## A.5.1 Radio tables
+
 Radio tables are target locations for translated tables that are not near their source. Org finds the target location and inserts the translated table.
 
 The key to finding the target location is the magic words ‘`BEGIN/END RECEIVE ORGTBL`’. They have to appear as comments in the current mode. If the mode is C, then:

@@ -2,6 +2,8 @@
 slug: Special-Agenda-Views
 ---
 
+## A.7 Special Agenda Views
+
 Org provides a special hook to further limit items in agenda views: `agenda`, `agenda*`[^1], `todo`, `alltodo`, `tags`, `tags-todo`, `tags-tree`. Specify a custom function that tests inclusion of every matched item in the view. This function can also skip as much as is needed.
 
 For a global condition applicable to agenda views, use the `org-agenda-skip-function-global` variable. Org uses a global condition with `org-agenda-skip-function` for custom searching.
@@ -82,6 +84,6 @@ The following is an example of a search for ‘`waiting`’ without the special 
     (org-agenda-overriding-header "Projects waiting for something: "))))
 ```
 
-[^1]: The `agenda*` view is the same as `agenda` except that it only considers *appointments*, i.e., scheduled and deadline items that have a time specification ‘`[h]h:mm`’ in their time-stamps.
+[^1]: The `agenda*` view is the same as `agenda` except that it only considers *appointments*, i.e., scheduled and deadline items that have a time specification ‘`[h]h:mm`’ in their timestamps.
 
 [^2]: Note that, for `org-odd-levels-only`, a level number corresponds to order in the hierarchy, not to the number of stars.

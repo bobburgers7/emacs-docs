@@ -2,6 +2,8 @@
 slug: A-LaTeX-example
 ---
 
+## A.5.2 A LaTeX example of radio tables
+
 To wrap a source table in LaTeX, use the ‘`comment`’ environment provided by ‘`comment.sty`’[^1]. To activate it, put `\usepackage{comment}` in the document header. Orgtbl mode inserts a radio table skeleton[^2] with the command `M-x orgtbl-insert-radio-table`, which prompts for a table name. For example, if ‘`salesfigures`’ is the name, the template inserts:
 
 ```lisp
@@ -52,7 +54,7 @@ Month & \multicolumn{1}{c}{Days} & Nr.\ sold & per day\\
 \end{comment}
 ```
 
-The LaTeX translator function `orgtbl-to-latex` is already part of Orgtbl mode and uses a ‘`tabular`’ environment to typeset the table and marks horizontal lines with `\hline`. For additional parameters to control output, see [Translator functions](/docs/org/Translator-functions):
+The LaTeX translator function `orgtbl-to-latex` is already part of Orgtbl mode and uses a ‘`tabular`’ environment to typeset the table and marks horizontal lines with `\hline`. For additional parameters to control output, see [Translator functions](/docs/org/Tables-in-Arbitrary-Syntax):
 
 ### ‘`:splice BOOLEAN`’
 

@@ -2,9 +2,11 @@
 slug: Extracting-Agenda-Information
 ---
 
+## A.9 Extracting Agenda Information
+
 Org provides commands to access agendas through Emacs batch mode. Through this command-line interface, agendas are automated for further processing or printing.
 
-`org-batch-agenda` creates an agenda view in ASCII and outputs to standard output. This command takes one string parameter. When string consists of a single character, Org uses it as a key to `org-agenda-custom-commands`. These are the same ones available through the agenda dispatcher (see [Agenda Dispatcher](/docs/org/Agenda-Dispatcher)).
+`org-batch-agenda` creates an agenda view in ASCII and outputs to standard output. This command takes one string parameter. When string consists of a single character, Org uses it as a key to `org-agenda-custom-commands`. These are the same ones available through the agenda dispatcher (see [The Agenda Dispatcher](/docs/org/Agenda-Dispatcher)).
 
 This example command line directly prints the TODO list to the printer:
 
