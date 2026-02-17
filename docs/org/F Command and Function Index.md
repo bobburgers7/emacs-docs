@@ -2,8 +2,6 @@
 slug: Command-and-Function-Index
 ---
 
-## F Command and Function Index
-
 | Jump to:   | [**L**](/docs/org/Command-and-Function-Index)   [**N**](/docs/org/Command-and-Function-Index)   [**O**](/docs/org/Command-and-Function-Index)   [**P**](/docs/org/Command-and-Function-Index)   [**W**](/docs/org/Command-and-Function-Index)   |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 

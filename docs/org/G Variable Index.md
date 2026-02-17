@@ -2,8 +2,6 @@
 slug: Variable-Index
 ---
 
-## G Variable Index
-
 This is not a complete index of variables and faces, only the ones that are mentioned in the manual. For a more complete list, use `M-x org-customize` and then click yourself through the tree.
 
 | Jump to:   | [**C**](/docs/org/Variable-Index)   [**I**](/docs/org/Variable-Index)   [**L**](/docs/org/Variable-Index)   [**O**](/docs/org/Variable-Index)   [**P**](/docs/org/Variable-Index)   [**U**](/docs/org/Variable-Index)   |

@@ -2,8 +2,6 @@
 slug: List-of-Contributions-1
 ---
 
-## B.3 List of Contributions
-
 *   Russell Adams came up with the idea for drawers.
 *   Thomas Baumann wrote ‘`ol-bbdb.el`’ and ‘`ol-mhe.el`’.
 *   Christophe Bataillon created the great unicorn logo that we use on the Org mode website.

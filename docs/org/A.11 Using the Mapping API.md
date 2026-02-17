@@ -2,8 +2,6 @@
 slug: Using-the-Mapping-API
 ---
 
-## A.11 Using the Mapping API
-
 Org has sophisticated mapping capabilities to find all entries satisfying certain criteria. Internally, this functionality is used to produce agenda views, but there is also an API that can be used to execute arbitrary functions for each or selected entries. The main entry point for this API is:
 
 ### <span className="tag function">`function`</span> **org-map-entries** `func &optional match scope &rest skip`

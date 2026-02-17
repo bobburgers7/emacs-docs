@@ -2,8 +2,6 @@
 slug: ADDENDUM_003a-How-to-use-this-License-for-your-documents
 ---
 
-## <span className="tag c.1addendum">`c.1 addendum`</span> How to use this License for your documents
-
 To use this License in a document you have written, include a copy of the License in the document and put the following copyright and license notices just after the title page:
 
 ```lisp

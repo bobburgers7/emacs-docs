@@ -2,8 +2,6 @@
 slug: Special-Agenda-Views
 ---
 
-## A.7 Special Agenda Views
-
 Org provides a special hook to further limit items in agenda views: `agenda`, `agenda*`[^1], `todo`, `alltodo`, `tags`, `tags-todo`, `tags-tree`. Specify a custom function that tests inclusion of every matched item in the view. This function can also skip as much as is needed.
 
 For a global condition applicable to agenda views, use the `org-agenda-skip-function-global` variable. Org uses a global condition with `org-agenda-skip-function` for custom searching.

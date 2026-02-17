@@ -2,8 +2,6 @@
 slug: Adding-Export-Backends
 ---
 
-## A.4 Adding Export Backends
-
 Org’s export engine makes it easy for writing new backends. The framework on which the engine was built makes it easy to derive new backends from existing ones.
 
 The two main entry points to the export engine are: `org-export-define-backend` and `org-export-define-derived-backend`. To grok these functions, see ‘`ox-latex.el`’ for an example of defining a new backend from scratch, and ‘`ox-beamer.el`’ for an example of deriving from an existing engine.

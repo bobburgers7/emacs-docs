@@ -2,8 +2,6 @@
 slug: Using-the-Property-API
 ---
 
-## A.10 Using the Property API
-
 Here is a description of the functions that can be used to work with properties.
 
 ### <span className="tag function">`function`</span> **org-entry-properties** `&optional pom which`

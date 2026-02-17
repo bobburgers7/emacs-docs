@@ -2,8 +2,6 @@
 slug: A-LaTeX-example
 ---
 
-## A.5.2 A LaTeX example of radio tables
-
 To wrap a source table in LaTeX, use the ‘`comment`’ environment provided by ‘`comment.sty`’[^1]. To activate it, put `\usepackage{comment}` in the document header. Orgtbl mode inserts a radio table skeleton[^2] with the command `M-x orgtbl-insert-radio-table`, which prompts for a table name. For example, if ‘`salesfigures`’ is the name, the template inserts:
 
 ```lisp

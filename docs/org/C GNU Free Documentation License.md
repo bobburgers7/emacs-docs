@@ -2,8 +2,6 @@
 slug: GNU-Free-Documentation-License
 ---
 
-## Appendix C GNU Free Documentation License
-
 Version 1.3, 3 November 2008
 
 ```lisp
@@ -143,3 +141,5 @@ of this license document, but changing it is not allowed.
     An MMC is “eligible for relicensing" if it is licensed under this License, and if all works that were first published under this License somewhere other than this MMC, and subsequently incorporated in whole or in part into the MMC, (1) had no cover texts or invariant sections, and (2) were thus incorporated prior to November 1, 2008.
 
     The operator of an MMC Site may republish an MMC contained in the site under CC-BY-SA on the same site at any time before August 1, 2009, provided the MMC is eligible for relicensing.
+
+*   [ADDENDUM: How to use this License for your documents](/docs/org/ADDENDUM_003a-How-to-use-this-License-for-your-documents)

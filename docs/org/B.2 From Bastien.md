@@ -2,8 +2,6 @@
 slug: From-Bastien-1
 ---
 
-## B.2 From Bastien
-
 I (Bastien) have been maintaining Org between 2011 and 2013. This appendix would not be complete without adding a few more acknowledgments and thanks.
 
 I am first grateful to Carsten for his trust while handing me over the maintainership of Org. His unremitting support is what really helped me getting more confident over time, with both the community and the code.

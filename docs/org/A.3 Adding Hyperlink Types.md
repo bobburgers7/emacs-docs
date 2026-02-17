@@ -2,8 +2,6 @@
 slug: Adding-Hyperlink-Types
 ---
 
-## A.3 Adding Hyperlink Types
-
 Org has many built-in hyperlink types (see [Hyperlinks](/docs/org/Hyperlinks)), and an interface for adding new link types. The following example shows the process of adding Org links to Unix man pages, which look like this
 
 ```lisp

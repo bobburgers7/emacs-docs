@@ -2,8 +2,6 @@
 slug: Translator-functions
 ---
 
-## A.5.3 Translator functions
-
 Orgtbl mode has built-in translator functions: `orgtbl-to-csv` (comma-separated values), `orgtbl-to-tsv` (TAB-separated values), `orgtbl-to-latex`, `orgtbl-to-html`, `orgtbl-to-texinfo`, `orgtbl-to-unicode` and `orgtbl-to-orgtbl`. They use the generic translator, `orgtbl-to-generic`, which delegates translations to various export backends.
 
 Properties passed to the function through the ‘`ORGTBL SEND`’ line take precedence over properties defined inside the function. For example, this overrides the default LaTeX line endings, `\\`, with `\\[2mm]`:

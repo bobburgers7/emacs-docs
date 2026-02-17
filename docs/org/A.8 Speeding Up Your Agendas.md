@@ -2,8 +2,6 @@
 slug: Speeding-Up-Your-Agendas
 ---
 
-## A.8 Speeding Up Your Agendas
-
 Some agenda commands slow down when the Org files grow in size or number. Here are tips to speed up:
 
 *   Reduce the number of Org agenda files to avoid slowdowns due to hard drive accesses.

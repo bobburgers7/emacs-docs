@@ -2,8 +2,6 @@
 slug: Citation-handling
 ---
 
-## 15 Citation handling
-
 While links (see [Hyperlinks](/docs/org/Hyperlinks)) are often sufficient to refer to external or internal information from Org, they have their limitations when referring to multiple targets or typesetting printed publications.
 
 Org mode provides a more sophisticated markup to “cite" external resources. For example, consider the following Org mode snippet
@@ -57,3 +55,7 @@ Add and edit citations via `org-cite-insert`.
 ### export
 
 Via different libraries for different target formats.
+
+*   [Citations](/docs/org/Citations)
+*   [Citation export processors](/docs/org/Citation-export-processors)
+*   [Bibliography printing](/docs/org/Bibliography-printing)
